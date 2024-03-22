@@ -1,0 +1,7 @@
+com\tsi\vmo2\vmo2spring\Vmo2springApplication.class
+com\tsi\vmo2\vmo2spring\Actor.class
+com\tsi\vmo2\vmo2spring\ActorRepository.class
+com\tsi\vmo2\vmo2spring\Film.class
+com\tsi\vmo2\vmo2spring\ActorController.class
+com\tsi\vmo2\vmo2spring\FilmRepository.class
+com\tsi\vmo2\vmo2spring\FilmController.class
